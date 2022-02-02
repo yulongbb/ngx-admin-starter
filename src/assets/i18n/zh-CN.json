@@ -1,0 +1,46 @@
+{
+	"HEADER":{
+		"NGX_ADMIN": "知识图谱"
+	},
+	"LOGIN": {
+		"SIGN IN": "登录",
+		"EMAIL ADDRESS": "电子邮箱",
+		"EMAIL IS REQUIRED": "请输入电子邮箱",
+		"EMAIL SHOULD BE THE REAL ONE": "电子邮箱格式不正确",
+		"PASSWORD": "密码",
+		"PASSWORD IS REQUIRE": "请输入密码",
+		"PASSWORD SHULD CONTAINS": "密码必须包含",
+		"FROM": "从",
+		"TO": "到",
+		"CHARACTERS": "字符",
+		"REMEMBER ME": "记住我",
+		"FORGOT PASSWORD": " 忘记密码",
+		"SIGN UP": "注册",
+        "DONT HAVE AN ACCOUNT": "还没有账号"
+	},
+	"REGISTER": {
+        "REGISTER": "注册",
+		"FULL NAME": "全名",
+		"FULL NAME IS REQUIRED": "请输入全名",
+		"FULL NAME SHULD CONTAINS": "全名必须包含",
+		"EMAIL ADDRESS": "电子邮箱",
+		"EMAIL IS REQUIRED": "请输入电子邮箱",
+		"EMAIL SHOULD BE THE REAL ONE": "电子邮箱格式不正确",
+		"PASSWORD": "密码",
+        "PASSWORD IS REQUIRE": "请输入密码",
+		"PASSWORD SHULD CONTAINS": "密码必须包含",
+		"FROM": "从",
+		"TO": "到",
+		"CHARACTERS": "字符"
+
+		
+
+    },
+	"DARK": " 黑",
+	"LIGHT": "白",
+	"menu.dashboard": "概览",
+	"menu.settings": "Settings",
+	"menu.staff.list": "List",
+	"menu.staff.staff": "Staff",
+	"menu.users": "Users"
+}

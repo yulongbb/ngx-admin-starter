@@ -1,0 +1,50 @@
+{
+    "HEADER":{
+		"NGX_ADMIN": "ngx-admin"
+	},
+    "LOGIN": {
+        "SIGN IN": "Sign In",
+        "EMAIL ADDRESS": "Email Address",
+        "EMAIL IS REQUIRED": "Email is required",
+        "EMAIL SHOULD BE THE REAL ONE": "Email should be the real one",
+        "PASSWORD": "Password",
+        "PASSWORD IS REQUIRE": "Password is required",
+        "PASSWORD SHULD CONTAINS": "Password should contains",
+        "FROM": "from",
+        "TO": "to",
+        "CHARACTERS": "characters",
+        "REMEMBER ME": "Remember me",
+        "FORGOT PASSWORD": "Forgot Password",
+        "SIGN UP": "Sign Up",
+        "DONT HAVE AN ACCOUNT": "Don't have an account"
+    },
+    "REGISTER": {
+        "REGISTER": "Register",
+        "FULL NAME": "Full name",
+        "FULL NAME IS REQUIRED": "Full name is required",
+        "FULL NAME SHULD CONTAINS": "Full name should contains",
+        "EMAIL ADDRESS": "Email Address",
+        "EMAIL IS REQUIRED": "Email is required",
+        "EMAIL SHOULD BE THE REAL ONE": "Email should be the real one",
+        "PASSWORD": "Password",
+        "PASSWORD IS REQUIRE": "Password is required",
+        "PASSWORD SHULD CONTAINS": "Password should contains",
+        "FROM": "from",
+        "TO": "to",
+        "CHARACTERS": "characters"
+
+    },
+    "Sign In": "登录",
+    
+    "LIGHT": "light",
+    "DARK": " dark",
+    "menu": {
+        "dashboard": "Dashboard",
+        "staff": {
+            "staff": "Staff",
+            "list": "List"
+        },
+        "users": "Users",
+        "settings": "Settings"
+    }
+}
